@@ -87,8 +87,8 @@ The Power BI dashboard provides an interactive overview of the business.
 
 ### Dashboard Visualizations
 
-- Monthly Revenue Trend
-- Top 10 Categories by Revenue
+- Monthly Revenue Trend.
+- Top 10 Categories by Revenue.
 - Top 10 Products by Revenue
 
 ## Key Business Insights
