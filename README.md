@@ -81,7 +81,7 @@ The Power BI dashboard provides an interactive overview of the business.
 
 - Total Revenue.
 - Total Orders.
-- Unique Customers
+- Unique Customers.
 - Average Order Value
 - Repeat Customer Rate
 
