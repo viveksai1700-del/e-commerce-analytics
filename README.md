@@ -79,7 +79,7 @@ The Power BI dashboard provides an interactive overview of the business.
 
 ### Key KPIs
 
-- Total Revenue
+- Total Revenue.
 - Total Orders
 - Unique Customers
 - Average Order Value
@@ -89,7 +89,7 @@ The Power BI dashboard provides an interactive overview of the business.
 
 - Monthly Revenue Trend.
 - Top 10 Categories by Revenue.
-- Top 10 Products by Revenue
+- Top 10 Products by Revenue.
 
 ## Key Business Insights
 
