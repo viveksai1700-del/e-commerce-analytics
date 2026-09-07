@@ -59,19 +59,19 @@ PostgreSQL was used to perform business-focused analysis including:
 - Monthly revenue trends.
 - Revenue by product category.
 - Top products by revenue.
-- Repeat customer analysis
-- Revenue by customer state
-- Delivery performance
-- Delivery delay analysis
-- Delivery performance vs review scores
-- Payment method analysis
-- Top customers by spending
-- Customer value segmentation
-- Category revenue ranking using window functions
-- Month-over-month revenue growth
-- Customer lifetime value
-- Customer acquisition trends
-- RFM-style customer segmentation
+- Repeat customer analysis.
+- Revenue by customer state.
+- Delivery performance.
+- Delivery delay analysis.
+- Delivery performance vs review scores.
+- Payment method analysis.
+- Top customers by spending.
+- Customer value segmentation.
+- Category revenue ranking using window functions.
+- Month-over-month revenue growth.
+- Customer lifetime value.
+- Customer acquisition trends.
+- RFM-style customer segmentation.
 
 ## Power BI Dashboard
 
