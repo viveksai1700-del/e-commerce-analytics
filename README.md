@@ -58,7 +58,7 @@ PostgreSQL was used to perform business-focused analysis including:
 - Overall revenue and order performance.
 - Monthly revenue trends.
 - Revenue by product category.
-- Top products by revenue
+- Top products by revenue.
 - Repeat customer analysis
 - Revenue by customer state
 - Delivery performance
