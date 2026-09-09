@@ -41,7 +41,7 @@ Raw CSV files are intentionally excluded from this repository using `.gitignore`
 
 Python was used to:
 
-- Inspect dataset structure and data quality
+- Inspect dataset structure and data quality.
 - Identify missing values and duplicates
 - Convert date columns to appropriate formats
 - Calculate delivery duration
