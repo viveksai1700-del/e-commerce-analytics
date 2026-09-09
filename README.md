@@ -46,10 +46,10 @@ Python was used to:
 - Convert date columns to appropriate formats.
 - Calculate delivery duration.
 - Calculate delivery delay.
-- Calculate total item value
-- Handle missing product and review information
-- Deduplicate and aggregate geolocation data
-- Export cleaned datasets for PostgreSQL analysis
+- Calculate total item value.
+- Handle missing product and review information.
+- Deduplicate and aggregate geolocation data.
+- Export cleaned datasets for PostgreSQL analysis.
 
 ## SQL Analysis
 
