@@ -43,8 +43,8 @@ Python was used to:
 
 - Inspect dataset structure and data quality.
 - Identify missing values and duplicates.
-- Convert date columns to appropriate formats
-- Calculate delivery duration
+- Convert date columns to appropriate formats.
+- Calculate delivery duration.
 - Calculate delivery delay
 - Calculate total item value
 - Handle missing product and review information
